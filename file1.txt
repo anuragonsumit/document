@@ -44,3 +44,15 @@ Commit
 Push
 qqqqqqqqqqqqqqqqqqqqqqq
 wwwwwwwwwwwwwwwwww
+nstallation
+Setup
+Bookmarks
+Create a git repository
+Import a git repository
+Overview
+First commit and push
+Add
+Commit
+Push
+qqqqqqqqqqqqqqqqqqqqqqq
+wwwwwwwwwwwwwwwwww
