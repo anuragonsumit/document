@@ -1,4 +1,19 @@
-Getting started with SourceTree, Git and git flow · GSoft-SharePoint ...
+﻿Getting started with SourceTree, Git and git flow · GSoft-SharePoint ...
 https://github.com/GSoft.../wiki/Getting-started-with-SourceTree,-Git-and-git-flow
 Mar 12, 2015 - Getting started with SourceTree, Git and git flow ... Also, please take the time to review the basics on a tutorial site such as: ... http://try.github.io/; A look at git internals: http://ftp.newartisans.com/pub/git.from.bottom.up.pdf.
 Commit, Push, and Pull a repository on Sour
+Summary
+
+This tutorial will talk about how to use SourceTree and git for newcomers.
+I will explain how to create, manage and evolve repositories in SourceTree workflow.
+
+Installation
+Setup
+Bookmarks
+Create a git repository
+Import a git repository
+Overview
+First commit and push
+Add
+Commit
+Push
