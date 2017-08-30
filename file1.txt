@@ -10,4 +10,6 @@
 12345
 key1=ram
 key2=ram1
+key1=ram
+key2=ram1
 
