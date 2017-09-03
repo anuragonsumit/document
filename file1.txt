@@ -6,5 +6,9 @@
 8
 7856
 999
-hhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhh
+321<<<<<<< .mine
 321
+=======
+123
+>>>>>>> .theirs
